@@ -1,6 +1,6 @@
 {
-  "name": "opencv4nodejs",
-  "version": "4.14.1",
+  "name": "@video-face-recognition/opencv4nodejs",
+  "version": "4.14.1-vfr.0",
   "description": "Asynchronous OpenCV 3.x nodejs bindings with JavaScript and TypeScript API.",
   "keywords": [
     "opencv",
@@ -41,7 +41,7 @@
     "macro-inferno": "^0.2.3",
     "nan": "^2.12.1",
     "native-node-utils": "^0.1.5",
-    "opencv-build": "^0.0.17"
+    "@video-face-recognition/opencv-build": "^0.1.1-vfr.0"
   },
   "optionalDependencies": {
     "@types/node": ">6"
